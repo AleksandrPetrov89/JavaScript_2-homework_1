@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/AleksandrPetrov89/JavaScript_2-homework_1/issues"
   },
-  "homepage": "https://github.com/AleksandrPetrov89/JavaScript_2-homework_1#readme"
+  "homepage": "https://github.com/AleksandrPetrov89/JavaScript_2-homework_1#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.22.10",
+    "@babel/core": "^7.22.11",
+    "@babel/preset-env": "^7.22.10"
+  }
 }
